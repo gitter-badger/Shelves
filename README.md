@@ -15,7 +15,7 @@ with development, see the 'Contributing' header below. Thanks!
 
 ### License
 
-Shelves is licensed under the GNU GPL license. See the [LICENSE](/LICENSE) file.
+Shelves is licensed under the 'GNU General Public License Version 3' license. See the [LICENSE](/LICENSE) file.
 
 ```
     This program is free software: you can redistribute it and/or modify
