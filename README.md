@@ -1,6 +1,13 @@
 Shelves - Rethink Libraries.
 ============================
 
+# Table of Contents
+
+1. [Getting Started](#gettingstarted)
+2. [Disclaimer](#disclaimer)
+3. [License](#license)
+4. [Contributing](#contributing)
+
 ## Getting Started
 
 Not going to lie here, there's not much to 'get started' with! If you want to help
