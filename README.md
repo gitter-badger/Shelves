@@ -11,7 +11,7 @@ Shelves - Rethink Libraries.
 ## Getting Started
 
 Not going to lie here, there's not much to 'get started' with! If you want to help
-with development, see the 'Contributing' header below. Thanks!
+with development, see the 'Contributing' section. 
 
 ## Disclaimer
 
