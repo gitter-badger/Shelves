@@ -1,6 +1,8 @@
 Shelves - Rethink Libraries.
 ============================
 
+[![Join the chat at https://gitter.im/shymega/Shelves](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shymega/Shelves?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # Table of Contents
 
 1. [Getting Started](#gettingstarted)
